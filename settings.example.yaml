@@ -1,0 +1,23 @@
+github:
+  token_env: GITHUB_TOKEN
+  api_timeout: 30
+  max_retries: 3
+
+storage:
+  research_directory: ./RepoHunter_Research
+  max_concurrent_downloads: 3
+
+analysis:
+  ai_enabled: false
+  provider: null
+  model: null
+
+security:
+  enabled: true
+  semgrep_enabled: true
+  gitleaks_enabled: true
+  osv_enabled: true
+  auto_execute_downloaded_code: false
+
+reports:
+  default_format: markdown

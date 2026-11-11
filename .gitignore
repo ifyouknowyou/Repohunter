@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.env
+settings.yaml
+RepoHunter_Research/
+*.egg-info/
+*.pyc
+build/
+dist/
