@@ -3,7 +3,6 @@ from __future__ import annotations
 import shutil
 import subprocess
 from pathlib import Path
-from typing import Any
 
 from repohunter.config import ConfigManager
 
@@ -30,11 +29,3 @@ def download_repository(
             f"Git clone failed for {repo_full_name}: {completed.stderr[:500]} or {completed.stdout[:500]}"
         )
     return str(destination)
-
-
-def estimate_download_size(repositories: list[dict[str, Any]]) -> int:
-    total = 0
-    for repo in repositories:
-        size_mb = int(repo.get("size") or 0)
-        total += max(size_mb, 20)
-    return total

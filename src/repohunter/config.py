@@ -105,14 +105,3 @@ class ConfigManager:
             encoding="utf-8",
         )
         return target
-
-    @classmethod
-    def get_token(cls) -> str | None:
-        from os import getenv
-
-        settings = cls.load_settings()
-        token_env = settings.github.token_env
-        token = getenv(token_env)
-        if token:
-            return token
-        return getenv("GITHUB_TOKEN")
