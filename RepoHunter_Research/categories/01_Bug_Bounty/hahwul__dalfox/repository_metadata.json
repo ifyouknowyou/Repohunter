@@ -1,0 +1,21 @@
+{
+  "category": "01_Bug_Bounty",
+  "description": "\ud83c\udf19\ud83e\udd8a Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+  "download_status": "downloaded",
+  "downloaded_at": "2026-11-14T21:51:30Z",
+  "html_url": "https://github.com/hahwul/dalfox",
+  "language": "Rust",
+  "local_path": "RepoHunter_Research/categories/01_Bug_Bounty/hahwul__dalfox",
+  "quality_score": 100,
+  "repository": "hahwul/dalfox",
+  "topics": [
+    "bugbounty",
+    "bugbounty-tool",
+    "devsecops",
+    "hacktoberfest",
+    "rust",
+    "security",
+    "xss",
+    "xss-scanner"
+  ]
+}

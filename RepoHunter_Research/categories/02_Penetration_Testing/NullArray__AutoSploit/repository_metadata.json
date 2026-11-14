@@ -1,0 +1,21 @@
+{
+  "category": "02_Penetration_Testing",
+  "description": "Automated Mass Exploiter",
+  "download_status": "downloaded",
+  "downloaded_at": "2026-11-14T21:51:32Z",
+  "html_url": "https://github.com/NullArray/AutoSploit",
+  "language": "Python",
+  "local_path": "RepoHunter_Research/categories/02_Penetration_Testing/NullArray__AutoSploit",
+  "quality_score": 100,
+  "repository": "NullArray/AutoSploit",
+  "topics": [
+    "automation",
+    "exploit",
+    "exploitation",
+    "metasploit",
+    "offsec",
+    "python",
+    "security",
+    "security-tools"
+  ]
+}

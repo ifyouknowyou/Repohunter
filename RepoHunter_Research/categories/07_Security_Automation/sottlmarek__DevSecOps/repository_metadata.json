@@ -1,0 +1,32 @@
+{
+  "category": "07_Security_Automation",
+  "description": "Ultimate DevSecOps library",
+  "download_status": "downloaded",
+  "downloaded_at": "2026-11-14T21:51:15Z",
+  "html_url": "https://github.com/sottlmarek/DevSecOps",
+  "language": null,
+  "local_path": "RepoHunter_Research/categories/07_Security_Automation/sottlmarek__DevSecOps",
+  "quality_score": 96,
+  "repository": "sottlmarek/DevSecOps",
+  "topics": [
+    "automation",
+    "awesome",
+    "awesome-list",
+    "aws",
+    "azure",
+    "ci-cd",
+    "cloud",
+    "containers",
+    "cybersecurity",
+    "devops",
+    "devsecops",
+    "docker",
+    "gcp",
+    "k8s",
+    "kubernetes",
+    "security",
+    "serverless",
+    "ssdlc",
+    "tool"
+  ]
+}

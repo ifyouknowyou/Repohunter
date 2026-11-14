@@ -1,0 +1,33 @@
+{
+  "category": "02_Penetration_Testing",
+  "description": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+  "download_status": "downloaded",
+  "downloaded_at": "2026-11-14T21:51:19Z",
+  "html_url": "https://github.com/OWASP/Nettacker",
+  "language": "Python",
+  "local_path": "RepoHunter_Research/categories/02_Penetration_Testing/OWASP__Nettacker",
+  "quality_score": 100,
+  "repository": "OWASP/Nettacker",
+  "topics": [
+    "automation",
+    "bruteforce",
+    "cve",
+    "hacking-tools",
+    "information-gathering",
+    "network-security",
+    "owasp",
+    "penetration-testing",
+    "penetration-testing-framework",
+    "pentesting",
+    "pentesting-tools",
+    "portscanner",
+    "python",
+    "recon",
+    "scanner",
+    "security",
+    "security-tools",
+    "vulnerability-management",
+    "vulnerability-scanner",
+    "vulnerability-scanners"
+  ]
+}

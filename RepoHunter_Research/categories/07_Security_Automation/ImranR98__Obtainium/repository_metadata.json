@@ -1,0 +1,29 @@
+{
+  "category": "07_Security_Automation",
+  "description": "Get Android app updates straight from the source.",
+  "download_status": "downloaded",
+  "downloaded_at": "2026-11-14T21:51:07Z",
+  "html_url": "https://github.com/ImranR98/Obtainium",
+  "language": "Dart",
+  "local_path": "RepoHunter_Research/categories/07_Security_Automation/ImranR98__Obtainium",
+  "quality_score": 100,
+  "repository": "ImranR98/Obtainium",
+  "topics": [
+    "android",
+    "apk",
+    "apk-update",
+    "apk-updater",
+    "app-updater",
+    "automation",
+    "foss",
+    "github",
+    "github-apk-updater",
+    "gitlab",
+    "notifications",
+    "obtainium",
+    "privacy",
+    "security",
+    "update-checker",
+    "updater"
+  ]
+}

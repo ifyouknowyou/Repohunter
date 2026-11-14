@@ -1,0 +1,26 @@
+{
+  "category": "07_Security_Automation",
+  "description": " Kubernetes clusters for the hobbyist.",
+  "download_status": "downloaded",
+  "downloaded_at": "2026-11-14T21:51:21Z",
+  "html_url": "https://github.com/hobby-kube/guide",
+  "language": null,
+  "local_path": "RepoHunter_Research/categories/07_Security_Automation/hobby-kube__guide",
+  "quality_score": 96,
+  "repository": "hobby-kube/guide",
+  "topics": [
+    "automation",
+    "cluster",
+    "cost-effective",
+    "devops",
+    "digitalocean",
+    "guide",
+    "hetzner-cloud",
+    "kubernetes",
+    "scaleway",
+    "security",
+    "setup",
+    "small-scale",
+    "terraform"
+  ]
+}
